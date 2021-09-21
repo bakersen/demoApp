@@ -10,9 +10,9 @@ fixers:
     # Ignore the files that match these glob patterns.
     # Be careful to quote strings as `*` has special
     # meaning in YAML files.
-    ignore:
-        - 'src/generated/*.py'
-        - 'webroot/bower_components/*'
+    # ignore:
+    #     - 'src/generated/*.py'
+    #     - 'webroot/bower_components/*'
 
 # branches:
     # Ignore pull requests to the named branches
